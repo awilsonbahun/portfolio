@@ -8,17 +8,15 @@ I am an IT graduate with experience in web development, UI/UX design. This portf
 technical skills, and academic experience.
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - React
 - Git & GitHub Pages
 
 ## Projects Featured
 - Walking Trails Web Application (React, MongoDB)
-- Hotel Room Price Analysis (Selenium, SQLite)
-- Text-Based Adventure Game (Java)
-- Event Management Web Application
+- Event Management Web Application  (React, MongoDB)
 
 ## Deployment
 This website is deployed using **GitHub Pages**.
