@@ -1,7 +1,7 @@
 # Personal Portfolio website
 This is my personal portfolio website created to showcase my background, skills, and projects as an Information Technology graduate with a concentration in Software Development.
 ##  Website
-https://yourusername.github.io
+https://awilsonbahun.github.io/portfolio/
 
 ## About Me
 I am an IT graduate with experience in web development, UI/UX design. This portfolio highlights my academic projects,
